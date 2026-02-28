@@ -4,9 +4,9 @@
 
 This repository contains the full computational implementation accompanying the paper *Plural Intertemporal Discounting Under Normative Uncertainty*.
 
-The central contribution is the Composite Intertemporal Valuation Instrument (CIVI), a weighted aggregation framework designed to operationalise normative uncertainty — the condition of acting under uncertainty about which moral theory is correct — directly within intertemporal valuation.
+The central contribution is the Composite Intertemporal Valuation Instrument (CIVI), a weighted aggregation framework designed to operationalise normative uncertainty (the condition of acting under uncertainty about which moral theory is correct) directly within long-horizon valuation.
 
-Rather than embedding ethical assumptions inside a single discount rate, CIVI aggregates twenty-two theoretically grounded discount functions and permits explicit assignment of moral weights across competing ethical priors. The result is a transparent, modular, and stress-testable approach to long-horizon valuation.
+Rather than embedding ethical assumptions inside a single discount rate, CIVI aggregates twenty-two discount functions and permits explicit assignment of moral weights across competing ethical priors. 
 
 The full draft is available here:  
 [Plural Intertemporal Discounting Under Normative Uncertainty](https://docs.google.com/document/d/1bim28OeAk_5zrDljibx1Wbk4OLVdif_wDUfCUTfaOSU/edit?usp=sharing)
@@ -81,4 +81,4 @@ Working paper draft.
 
 ## Contact
 
-For questions, feedback, or collaboration inquiries, please reach out via GitHub Issues.
+For questions, feedback, or collaboration inquiries, please reach out via GitHub Issues. Critical and constructive feedback in particular is most  welcome. 
